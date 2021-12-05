@@ -8,10 +8,11 @@ doc/
 .*.swp
 *.o
 *.class
-.*
 data/ceeaus
 data/breast-cancer
 data/housing
 biicode.conf
 bii/
 bin/
+.DS_Store
+dist/
